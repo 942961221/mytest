@@ -12,4 +12,5 @@ public class Test2 {
         System.out.println("222222222");
     }
     private String age;
+	private String name;
 }
